@@ -39,7 +39,7 @@ android {
     defaultConfig {
         applicationId = "com.eljoker.education"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 28
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
     }
