@@ -693,15 +693,7 @@ class _TaskHomePageState extends State<TaskHomePage>
                     icon: const Icon(Icons.delete_outline_rounded,
                         color: AppTheme.textMuted),
                     onPressed: () => _deleteTask(task),
-                  ),
-                ],
-              ),
-            ),
-          ),
-        ),
-      ),
-    );
-  }
+                  8C84-5BCC
 
   String _formatDate(DateTime date) {
     final now = DateTime.now();
